@@ -1,6 +1,6 @@
 name: 2GPhotography
 favicon: null
-layout_spectrum: 0.1873994453344494
+layout_spectrum: 1
 typography_spectrum: 0.7055385515559465
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#3B28CC'
   brandStrength: 0.8636301858350635
   lightness: 0.20759542263112962
-  saturation: 0.9152093031443655
+  saturation: 1
   rhythmicContrast: 0.2376807825639844
 purpose: []
